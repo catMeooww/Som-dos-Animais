@@ -1,5 +1,13 @@
 body{
     background-color: aliceblue;
+    font-family: 'EB Garamond', serif;
+}
+.header_div{
+    color:darkgreen;
+    background-color: rgba(164, 179, 192, 0.781);
+}
+button{
+    margin-top: 15px;
 }
 #Animal{
     border-width: 2px;
